@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husler999&label=Profile%20views&color=0e75b6&style=flat" alt="husler999" /> </p>
 
-- 🔭 I’m currently studing as **student.**
+- 🔭 I’m currently studing Bsc.CSIT in CCT college**
 
 - 🌱 I’m currently learning **C++, Python, C,Php.**
 
 - 👯 I’m looking to collaborate on **any possible projects.**
 
-- 📫 To reach me **mail me..**
+- 📫 To reach me ** Sumiran.stha.005@gmail.com**
 
 - ⚡ Fun fact **I will be good soon!!!!**
 
